@@ -1,0 +1,18 @@
+# <your_handle>
+高野明(@ddtkra)
+
+## 会社や業務で普段やっていること
+サービスの運用状況の検証など
+
+## (option) 相談乗れるかもしれないこと
+
+## 今日やること
+MovieLens 1M (https://grouplens.org/datasets/movielens/1m/)という映画評価データがある。
+このデータを用いて、各映画ジャンルの rating 変化の推移を可視化し、ジャンルごとの特色の
+違いを知る
+
+## (option) もしかしたら相談するかもしれないこと
+PandasのDataFrameの整形の仕方など
+
+
+## 今日の成果
